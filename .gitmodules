@@ -1,3 +1,6 @@
 [submodule "terraform-gcp-bucket-site"]
 	path = terraform-gcp-bucket-site
 	url = git@github.com:JakubG-git/terraform-gcp-bucket-site.git
+[submodule "vagrant-ansible-nginx-lb"]
+	path = vagrant-ansible-nginx-lb
+	url = git@github.com:JakubG-git/vagrant-ansible-nginx-lb.git
