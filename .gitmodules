@@ -1,0 +1,3 @@
+[submodule "terraform-gcp-bucket-site"]
+	path = terraform-gcp-bucket-site
+	url = git@github.com:JakubG-git/terraform-gcp-bucket-site.git
