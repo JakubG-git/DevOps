@@ -4,3 +4,6 @@
 [submodule "vagrant-ansible-nginx-lb"]
 	path = vagrant-ansible-nginx-lb
 	url = git@github.com:JakubG-git/vagrant-ansible-nginx-lb.git
+[submodule "terraform-gcp-flask"]
+	path = terraform-gcp-flask
+	url = git@github.com:JakubG-git/terraform-gcp-flask.git
