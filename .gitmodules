@@ -7,3 +7,9 @@
 [submodule "terraform-gcp-flask"]
 	path = terraform-gcp-flask
 	url = git@github.com:JakubG-git/terraform-gcp-flask.git
+[submodule "terraform-gcp-kubernetes"]
+	path = terraform-gcp-kubernetes
+	url = git@github.com:JakubG-git/terraform-gcp-kubernetes.git
+[submodule "terraform-gcp-kubernetes-autopilot"]
+	path = terraform-gcp-kubernetes-autopilot
+	url = git@github.com:JakubG-git/terraform-gcp-kubernetes-autopilot.git
