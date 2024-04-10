@@ -13,3 +13,6 @@
 [submodule "terraform-gcp-kubernetes-autopilot"]
 	path = terraform-gcp-kubernetes-autopilot
 	url = git@github.com:JakubG-git/terraform-gcp-kubernetes-autopilot.git
+[submodule "terraform-azure-vm"]
+	path = terraform-azure-vm
+	url = git@github.com:JakubG-git/terraform-azure-vm.git
